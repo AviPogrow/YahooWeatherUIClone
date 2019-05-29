@@ -1,0 +1,13 @@
+[ {
+  "name":"London",
+  "imageName":"London"
+},
+{
+  "name":"Boston",
+  "imageName":"Boston"
+},
+{
+  "name":"Chicago",
+  "imageName":"Chicago"
+}
+]
